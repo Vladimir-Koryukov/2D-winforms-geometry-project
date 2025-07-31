@@ -1,0 +1,10 @@
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\bin\Debug\KoryukovVA_Lab3.exe.config
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\bin\Debug\KoryukovVA_Lab3.exe
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\bin\Debug\KoryukovVA_Lab3.pdb
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\obj\Debug\KoryukovVA_Lab3.csproj.AssemblyReference.cache
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\obj\Debug\KoryukovVA_Lab3.GraphicalForm.resources
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\obj\Debug\KoryukovVA_Lab3.Properties.Resources.resources
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\obj\Debug\KoryukovVA_Lab3.csproj.GenerateResource.cache
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\obj\Debug\KoryukovVA_Lab3.csproj.CoreCompileInputs.cache
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\obj\Debug\KoryukovVA_Lab3.exe
+D:\6 семестр\Технология разработки ПО\Лаба 3\KoryukovVA_Lab3\KoryukovVA_Lab3\obj\Debug\KoryukovVA_Lab3.pdb
